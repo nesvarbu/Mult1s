@@ -1,0 +1,45 @@
+{
+   "room":"Music Home Lithuania",
+   "author":"Multis",
+   "icon":"http://i.imgur.com/97Jifbi.gif",
+   "css":"https://dl.dropboxusercontent.com/s/u1179ma11pki60h/cssfailas.css",
+   "rules":{
+      "allowAutorespond":true,
+      "allowAutowoot":true,
+      "allowAutojoin":true,
+      "allowAutograb":true,
+      "allowSmartVote":true,
+      "allowEmotes":true,
+      "allowShowingMehs":true,
+      "forceSmartVote":false
+   },
+   "ccc":{
+      "admin":"null",
+      "ambassador":"null",
+      "host":"#F2F2F2",
+      "cohost":"#80FF00",
+      "manager":"#5858FA",
+      "bouncer":"#FF0000",
+      "rdj":"#81DAF5",
+      "subscriber":"null",
+      "silversubscriber":"null",
+      "friend":"#FE9A2E",
+      "user":"null"
+   },
+   "images":{
+      "background":"http://i.imgur.com/WEVeht3.jpg",
+      "playback":null,
+      "admin":null,
+      "ambassador":null,
+      "host":null,
+      "cohost":null,
+      "manager":null,
+      "bouncer":null,
+      "rdj":null,
+      "subscriber":null,
+      "silversubscriber":null
+   },
+   "emotes":{
+      "emote_name":null
+   }
+}
